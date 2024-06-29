@@ -14,7 +14,7 @@ def main():
         numbers.append(num) 
         total = total + num
     
-    total = total - num
+  
     print(f'The random values are {numbers}')
     print(f'The total is {total}')
 
